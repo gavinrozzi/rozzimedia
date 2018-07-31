@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://rozzi.media/"
 languageCode = "en-us"
 title = "Rozzi Media Group"
 theme = "navigator-hugo"
@@ -66,18 +66,18 @@ theme = "navigator-hugo"
     home = "Home"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "Rozzi Media Group is a boutique media and consulting firm that specializes in interactive websites & media experiences."
 
     # Hero Area Section
     [params.hero]
         enable  = true
         heading = "We deliver amazing experiences"
-        description = "Rozzi Media Group is creating interactive websites & media experiences that inform the public."
+        description = "Rozzi Media Group is creating interactive websites & media experiences that inform the public and assist journalists, legal & real estate professionals in shining a light on the activities of state & local government agencies."
         button  = true
         btnText = "Work with us"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        btnURL  = "http://localhost:1313/contact/"
+        videoThumb = "images/slider/video2.JPG"
+        videoURL   = "https://www.youtube.com/watch?v=S1VlqYI82Dg"
 
     # About 2 Section
     [params.aboutSm]
@@ -109,11 +109,11 @@ theme = "navigator-hugo"
         address = "PO Box 32 Lanoka Harbor, NJ 08734"
         phone   = "(732)-504-3636"
         fax     = "(609)-312-7187"
-        facebook= "https://www.facebook.com/"
+        facebook= "https://www.facebook.com/gavinrozzi"
         twitter = "https://twitter.com/"
-        linkedin= "https://www.linkedin.com/"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
+        linkedin= "https://linkedin.com/in/gavin-rozzi-077b0745"
+        dribbble= ""
+        instagram= ""
+        mapLatitude = ""
+        mapLongitude= ""
         mapMarker   = "images/marker.png"
