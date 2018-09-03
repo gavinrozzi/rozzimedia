@@ -1,16 +1,16 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+    title : Website design & development
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      RMG web properties deliver the very best in community engagement, responsive web design & ease of access.
   
   - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+    title : The latest technologies
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      We use the latest in web development, data journalism and emerging technologies to deliver new media experiences for our users.
 
   - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+    title : A new day for transparency
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      OPRAmachine, our flagship website is New Jersey's largest archive of public records, driving research and investigative reporting.

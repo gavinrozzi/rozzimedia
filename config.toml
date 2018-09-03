@@ -82,8 +82,8 @@ theme = "navigator-hugo"
     # About 2 Section
     [params.aboutSm]
         enable  = true
-        title   = "Our web properties are making an impact"
-        description = "Rozzi Media Group's websites are offering tranpsarency solutions and local news that keeps the public up to date & informed."
+        title   = "Our work is making an impact, around New Jersey and around the world."
+        description = "Rozzi Media Group's online platforms are offering tranpsarency solutions and driving local news stories that keeps the public informed & helps citizens demand better from their state & local governments."
 
     # Blog Section On Homepage
     [params.blog]
@@ -105,12 +105,12 @@ theme = "navigator-hugo"
         enable  = true
         topTitle= "DROP US A NOTE"
         title   = "Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "We would love to hear from you."
         address = "PO Box 32 Lanoka Harbor, NJ 08734"
         phone   = "(732)-504-3636"
         fax     = "(609)-312-7187"
         facebook= "https://www.facebook.com/gavinrozzi"
-        twitter = "https://twitter.com/"
+        twitter = "https://twitter.com/gavroz"
         linkedin= "https://linkedin.com/in/gavin-rozzi-077b0745"
         dribbble= ""
         instagram= ""
