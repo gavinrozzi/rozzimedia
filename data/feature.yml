@@ -1,16 +1,16 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : Website design & development
+    title : Websites that make an impact
     description : >
-      RMG web properties deliver the very best in community engagement, responsive web design & ease of access.
+      Our web properties deliver the very best in community engagement, responsive web design & ease of access.
   
   - icon  : tf-ion-ios-alarm-outline
-    title : The latest technologies
+    title : Solving problems with technology
     description : >
       We use the latest in web development, data journalism and emerging technologies to deliver new media experiences for our users.
 
   - icon  : tf-ion-ios-book-outline
-    title : A new day for transparency
+    title : Open data for all
     description : >
-      OPRAmachine, our flagship website is New Jersey's largest archive of public records, driving research and investigative reporting.
+      OPRAmachine, our flagship website is New Jersey's largest archive of public records, is increasing public knowledge about all levels of New Jersey government.
